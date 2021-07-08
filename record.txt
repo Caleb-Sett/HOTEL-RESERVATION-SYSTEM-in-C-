@@ -1,0 +1,10 @@
+Room Numnber: 12
+Customer Name: CALEB SETT K.
+Address: P.O BOX 76 CHEBUNYO
+Phone Number: 706854811
+
+Room Numnber: 20
+Customer Name: Evans Bett
+Address: P.O BOX 78 SOTIK
+Phone Number: 708956233
+
